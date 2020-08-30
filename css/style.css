@@ -1,0 +1,333 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	line-height:1.5;
+	padding:0;
+	margin:0;
+	background-color:#f4f4f4;
+}
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+ul{
+	margin:0;
+	padding:0;
+}
+header{
+	background:rgb(7,133,191);
+	color:#ffffff;
+	padding-top:10px;
+	min-height:40px;
+	border-bottom:#e8491d 4px solid;
+}
+header a{
+	color:#ffffff;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:25px;
+	padding:10px;
+
+}
+header a:hover{
+	background: black;
+
+}
+.wrapper a{
+	font-size:25px;
+}
+.wrapper a:hover{
+	background-color:black;
+	color:#cccccc;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+
+header li{
+	float:left;
+	display:inline;
+	padding:0 20px 0 20px;
+}
+header .current{
+	color:#e84914;
+	font-weight:bold;
+}
+.current a{
+	color:#e84914;
+	font-weight:bold;
+}
+
+header #branding{
+	float:left;
+}
+header #branding h1{
+	margin:0;
+
+}
+header nav{
+	float:right;
+	margin-top:10px;
+}
+header a:hover{
+	background-color:none;
+	color:#cccccc;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#showcase{
+	min-height:400px;
+	background:white;
+	text-align:center;
+	color:white;
+	margin-top: 0px;
+	margin-bottom:0px;
+}
+#showcase h1{
+	margin-top:90px;
+	font-size:70px;
+	margin-bottom:10px;
+	color:black;
+
+}
+#showcase p{
+	font-size:30px;
+	color:black;
+}
+#newsletter form{
+	float:right;
+	margin-top:10px;
+}
+
+#newsletter input[type="text"]{
+	padding:4px;
+	height:25px;
+	width:250px;
+
+}
+
+#newsletter input[type="password"]{
+	padding:4px;
+	height:25px;
+	width:250px;
+
+}
+#newsletter input[type="submit"]{
+	height:38px;
+	background:#e8491d;
+	border:0;
+	padding-right:20px;
+	padding-left:20px;
+	color:white;
+
+}
+footer{
+	padding:20px;
+	margin-top:0px;
+	font-size: 20px;
+	color:white;
+	background-color:rgb(7,133,191);
+	text-align:center;
+}
+.font{
+	font-family: Helvetica, sans-serif;
+
+}
+.color{
+	color:#e84914;
+}
+.dstyle{
+	background:#35424a;
+	color:white;
+}
+.wrapper{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+.wrapper ul{
+	text-decoration: none;
+	display: inline-block;
+
+}
+#bar{
+	background:black;
+	height:50px;
+
+	font-size: 20px;
+}
+#ab{
+	color:white;
+}
+#ab:hover{
+	background:rgb(7,133,191);
+	color:black;
+
+}body{
+	 font-family: Arial, Helvetica, sans-serif;
+	 font-size:15px;
+	 line-height:1.5;
+	 padding:0;
+	 margin:0;
+	 background-color:#f4f4f4;
+ }
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+ul{
+	margin:0;
+	padding:0;
+}
+header{
+	background:rgb(7,133,191);
+	color:#ffffff;
+	padding-top:10px;
+	min-height:40px;
+	border-bottom:#e8491d 4px solid;
+}
+header a{
+	color:#ffffff;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:25px;
+	padding:10px;
+
+}
+header a:hover{
+	background: black;
+
+}
+.wrapper a{
+	font-size:25px;
+}
+.wrapper a:hover{
+	background-color:black;
+	color:#cccccc;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+
+header li{
+	float:left;
+	display:inline-block;
+	padding:0 20px 0 20px;
+}
+header .current{
+	color:#e84914;
+	font-weight:bold;
+}
+.current a{
+	color:#e84914;
+	font-weight:bold;
+}
+
+header #branding{
+	float:left;
+}
+header #branding h1{
+	margin:0;
+
+}
+header nav{
+	margin-top:10px;
+}
+header a:hover{
+	color:#cccccc;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#showcase{
+	min-height:400px;
+	background:white;
+	text-align:center;
+	color:white;
+	margin-top: 0px;
+	margin-bottom:0px;
+}
+#showcase h1{
+	margin-top:90px;
+	font-size:70px;
+	margin-bottom:10px;
+	color:black;
+
+}
+#showcase p{
+	font-size:30px;
+	color:black;
+}
+#newsletter form{
+	float:right;
+	margin-top:10px;
+}
+
+#newsletter input[type="text"]{
+	padding:4px;
+	height:25px;
+	width:250px;
+
+}
+
+#newsletter input[type="password"]{
+	padding:4px;
+	height:25px;
+	width:250px;
+
+}
+#newsletter input[type="submit"]{
+	height:38px;
+	background:#e8491d;
+	border:0;
+	padding-right:20px;
+	padding-left:20px;
+	color:white;
+
+}
+footer{
+	padding:20px;
+	margin-top:0px;
+	font-size: 20px;
+	color:white;
+	background-color:rgb(7,133,191);
+	text-align:center;
+}
+.font{
+	font-family: Helvetica, sans-serif;
+
+}
+.color{
+	color:#e84914;
+}
+.dstyle{
+	background:#35424a;
+	color:white;
+}
+.wrapper{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+.wrapper ul{
+	text-decoration: none;
+	display: inline-block;
+
+}
+#bar{
+	background:black;
+	height:50px;
+
+	font-size: 20px;
+}
+#ab{
+	color:white;
+}
+#ab:hover{
+	background:rgb(7,133,191);
+	color:black;
+
+}
